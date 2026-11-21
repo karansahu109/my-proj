@@ -1,0 +1,20 @@
+make specific prompt writing using another model so that you write exactly what you want into the prompts
+
+_commit
+
+detailed prompt -> evalute
+
+_commit
+
+detailed prompt -> evalute
+
+_commit
+
+detailed prompt -> evalute
+
+_commit
+
+detailed prompt -> evalute
+
+_commit
+
